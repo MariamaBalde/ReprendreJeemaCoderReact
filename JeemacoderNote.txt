@@ -1,0 +1,14 @@
+Jeemacoder gestion utilisateurs
+
+L' state objet est l'endroit où vous stockez les valeurs de propriété qui appartiennent au composant.
+
+Pour modifier une valeur dans l’objet d’état, utilisez la this.setState()méthode.
+
+ la setState()méthode pour modifier l'objet d'état
+
+Quand utiliser les props et quand utiliser l'État dans un composant ?
+props est passé au composant (à la manière des arguments d'une fonction) 
+tandis que state est géré dans le composant (comme le sont les variables déclarées à l'intérieur d'une fonction).
+
+
+
